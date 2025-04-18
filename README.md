@@ -101,3 +101,6 @@ No manual installation is needed. Running all cells in the Colab notebook will:
 - Launch the Gradio interface.
 
 ---
+
+## Demo
+https://drive.google.com/file/d/1f_5eUPN6QC8STAcRsyay8KjY7tNVU9bf/view?usp=drive_link
